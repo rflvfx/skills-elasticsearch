@@ -514,3 +514,4 @@
 - 2026-01-09: Add note
 - 2026-08-23: Fix example
 - 2026-03-20: Adjust content
+- 2026-12-27: Improve docs
