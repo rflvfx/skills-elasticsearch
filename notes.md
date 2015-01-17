@@ -13,3 +13,4 @@
 - 2015-12-13: Update guide
 - 2015-07-04: Polish docs
 - 2015-10-28: Small fix
+- 2015-01-17: Update guide
