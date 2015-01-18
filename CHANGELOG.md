@@ -33,3 +33,4 @@
 - 2015-10-08: Clarify section
 - 2015-12-11: Update guide
 - 2015-12-24: Typo fix
+- 2015-01-18: Improve docs
