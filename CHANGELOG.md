@@ -60,3 +60,4 @@
 - 2015-06-21: Fix example
 - 2015-02-14: Update guide
 - 2015-12-16: Add note
+- 2015-02-23: Refine text
