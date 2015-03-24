@@ -35,3 +35,4 @@
 - 2015-12-24: Typo fix
 - 2015-01-18: Improve docs
 - 2015-09-22: Add note
+- 2015-03-24: Add detail
