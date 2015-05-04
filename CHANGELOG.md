@@ -66,3 +66,4 @@
 - 2015-04-28: Expand section
 - 2015-05-05: Small fix
 - 2015-01-21: Clarify section
+- 2015-05-04: Small fix
