@@ -64,3 +64,4 @@
 - 2015-09-02: Typo fix
 - 2015-05-09: Expand section
 - 2015-04-28: Expand section
+- 2015-05-05: Small fix
