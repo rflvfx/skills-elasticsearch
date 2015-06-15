@@ -55,3 +55,4 @@
 - 2015-10-24: Expand section
 - 2015-05-11: Polish docs
 - 2015-09-24: Add detail
+- 2015-06-15: Adjust content
