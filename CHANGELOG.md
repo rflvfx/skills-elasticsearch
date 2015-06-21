@@ -57,3 +57,4 @@
 - 2015-09-24: Add detail
 - 2015-06-15: Adjust content
 - 2015-04-15: Review content
+- 2015-06-21: Fix example
