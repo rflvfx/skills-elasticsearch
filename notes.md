@@ -15,3 +15,4 @@
 - 2015-10-28: Small fix
 - 2015-01-17: Update guide
 - 2015-03-08: Update notes
+- 2015-06-25: Refine text
