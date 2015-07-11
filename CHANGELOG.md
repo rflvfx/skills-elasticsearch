@@ -51,3 +51,4 @@
 - 2015-04-03: Typo fix
 - 2015-01-05: Review content
 - 2015-03-12: Small fix
+- 2015-07-11: Refine text
