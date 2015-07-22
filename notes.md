@@ -5,3 +5,4 @@
 - 2015-09-05: Adjust content
 - 2015-07-03: Add note
 - 2015-10-04: Minor update
+- 2015-07-22: Fix example
