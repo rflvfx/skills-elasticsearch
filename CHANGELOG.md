@@ -38,3 +38,4 @@
 - 2015-03-24: Add detail
 - 2015-06-04: Add note
 - 2015-08-14: Refine text
+- 2015-08-03: Typo fix
