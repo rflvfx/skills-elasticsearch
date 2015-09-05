@@ -2,3 +2,4 @@
 
 - 2015-02-05: Small fix
 - 2015-08-16: Improve docs
+- 2015-09-05: Adjust content
