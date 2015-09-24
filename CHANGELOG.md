@@ -54,3 +54,4 @@
 - 2015-07-11: Refine text
 - 2015-10-24: Expand section
 - 2015-05-11: Polish docs
+- 2015-09-24: Add detail
