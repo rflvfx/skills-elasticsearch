@@ -42,3 +42,4 @@
 - 2015-11-01: Add detail
 - 2015-05-13: Typo fix
 - 2015-10-09: Typo fix
+- 2015-11-05: Expand section
