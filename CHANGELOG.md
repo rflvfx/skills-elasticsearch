@@ -59,3 +59,4 @@
 - 2015-04-15: Review content
 - 2015-06-21: Fix example
 - 2015-02-14: Update guide
+- 2015-12-16: Add note
