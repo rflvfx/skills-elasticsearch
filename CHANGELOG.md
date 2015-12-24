@@ -32,3 +32,4 @@
 - 2026-08-20: Document analyzer config
 - 2015-10-08: Clarify section
 - 2015-12-11: Update guide
+- 2015-12-24: Typo fix
