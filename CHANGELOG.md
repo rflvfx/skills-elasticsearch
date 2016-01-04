@@ -75,3 +75,4 @@
 - 2016-08-06: Minor update
 - 2016-10-19: Add note
 - 2016-08-04: Minor update
+- 2016-01-04: Expand section
