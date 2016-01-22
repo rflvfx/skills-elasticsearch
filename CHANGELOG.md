@@ -97,3 +97,4 @@
 - 2016-02-23: Update guide
 - 2016-09-24: Add remark
 - 2016-03-10: Polish docs
+- 2016-01-22: Add remark
