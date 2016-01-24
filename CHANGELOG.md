@@ -86,3 +86,4 @@
 - 2016-05-15: Improve docs
 - 2016-05-22: Add remark
 - 2016-09-17: Small fix
+- 2016-01-24: Refine text
