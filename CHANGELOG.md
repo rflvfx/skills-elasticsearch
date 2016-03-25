@@ -89,3 +89,4 @@
 - 2016-01-24: Refine text
 - 2016-05-04: Clarify section
 - 2016-09-26: Minor update
+- 2016-03-25: Improve docs
