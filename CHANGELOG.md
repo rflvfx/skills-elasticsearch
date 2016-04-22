@@ -91,3 +91,4 @@
 - 2016-09-26: Minor update
 - 2016-03-25: Improve docs
 - 2016-12-27: Small fix
+- 2016-04-22: Add remark
