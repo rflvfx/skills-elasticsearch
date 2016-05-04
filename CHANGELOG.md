@@ -87,3 +87,4 @@
 - 2016-05-22: Add remark
 - 2016-09-17: Small fix
 - 2016-01-24: Refine text
+- 2016-05-04: Clarify section
