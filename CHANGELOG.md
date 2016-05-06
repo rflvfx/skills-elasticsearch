@@ -104,3 +104,4 @@
 - 2016-09-27: Update guide
 - 2016-07-18: Refine text
 - 2016-01-25: Improve docs
+- 2016-05-06: Adjust content
