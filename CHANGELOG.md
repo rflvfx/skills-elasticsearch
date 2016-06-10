@@ -93,3 +93,4 @@
 - 2016-12-27: Small fix
 - 2016-04-22: Add remark
 - 2016-12-21: Add remark
+- 2016-06-10: Expand section
