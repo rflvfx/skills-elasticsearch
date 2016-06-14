@@ -1,0 +1,1 @@
+- 2016-06-14: Add quick reference (skills-elasticsearch)
