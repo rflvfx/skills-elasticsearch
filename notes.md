@@ -17,3 +17,4 @@
 - 2015-03-08: Update notes
 - 2015-06-25: Refine text
 - 2015-10-01: Update notes
+- 2016-06-16: Update notes
