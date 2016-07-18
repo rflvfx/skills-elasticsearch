@@ -102,3 +102,4 @@
 - 2016-08-19: Add remark
 - 2016-12-19: Add remark
 - 2016-09-27: Update guide
+- 2016-07-18: Refine text
