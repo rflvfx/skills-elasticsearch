@@ -72,3 +72,4 @@
 - 2016-02-08: Fix example
 - 2016-10-11: Add remark
 - 2016-07-14: Update notes
+- 2016-08-06: Minor update
