@@ -20,3 +20,4 @@
 - 2016-06-16: Update notes
 - 2016-09-04: Update notes
 - 2016-01-14: Polish docs
+- 2016-08-19: Polish docs
