@@ -99,3 +99,4 @@
 - 2016-03-10: Polish docs
 - 2016-01-22: Add remark
 - 2016-06-08: Small fix
+- 2016-08-19: Add remark
