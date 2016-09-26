@@ -88,3 +88,4 @@
 - 2016-09-17: Small fix
 - 2016-01-24: Refine text
 - 2016-05-04: Clarify section
+- 2016-09-26: Minor update
