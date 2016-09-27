@@ -101,3 +101,4 @@
 - 2016-06-08: Small fix
 - 2016-08-19: Add remark
 - 2016-12-19: Add remark
+- 2016-09-27: Update guide
