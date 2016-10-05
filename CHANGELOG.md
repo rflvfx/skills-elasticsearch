@@ -111,3 +111,4 @@
 - 2016-02-26: Polish docs
 - 2016-07-11: Update notes
 - 2016-11-18: Improve docs
+- 2016-10-05: Add note
