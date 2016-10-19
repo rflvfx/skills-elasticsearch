@@ -73,3 +73,4 @@
 - 2016-10-11: Add remark
 - 2016-07-14: Update notes
 - 2016-08-06: Minor update
+- 2016-10-19: Add note
