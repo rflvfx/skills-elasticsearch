@@ -106,3 +106,4 @@
 - 2016-01-25: Improve docs
 - 2016-05-06: Adjust content
 - 2016-01-13: Review content
+- 2016-11-14: Improve docs
