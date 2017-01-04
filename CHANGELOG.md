@@ -128,3 +128,4 @@
 - 2017-01-10: Typo fix
 - 2017-06-07: Add note
 - 2017-01-06: Adjust content
+- 2017-01-04: Small fix
