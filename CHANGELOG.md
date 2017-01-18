@@ -146,3 +146,4 @@
 - 2017-12-16: Clarify section
 - 2017-11-02: Update notes
 - 2017-07-25: Add note
+- 2017-01-18: Update guide
