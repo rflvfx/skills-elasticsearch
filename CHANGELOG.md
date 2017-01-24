@@ -138,3 +138,4 @@
 - 2017-06-12: Expand section
 - 2017-08-26: Typo fix
 - 2017-10-20: Fix example
+- 2017-01-24: Update notes
