@@ -149,3 +149,4 @@
 - 2017-01-18: Update guide
 - 2017-06-26: Small fix
 - 2017-01-20: Clarify section
+- 2017-02-09: Update notes
