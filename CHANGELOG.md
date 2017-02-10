@@ -155,3 +155,4 @@
 - 2017-04-28: Expand section
 - 2017-01-08: Clarify section
 - 2017-08-20: Review content
+- 2017-02-10: Typo fix
