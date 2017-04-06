@@ -112,3 +112,4 @@
 - 2016-07-11: Update notes
 - 2016-11-18: Improve docs
 - 2016-10-05: Add note
+- 2017-04-06: Add note
