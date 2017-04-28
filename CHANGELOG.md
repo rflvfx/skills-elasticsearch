@@ -152,3 +152,4 @@
 - 2017-02-09: Update notes
 - 2017-01-14: Small fix
 - 2017-05-18: Review content
+- 2017-04-28: Expand section
