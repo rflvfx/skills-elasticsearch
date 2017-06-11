@@ -35,3 +35,4 @@
 - 2017-05-01: Review content
 - 2017-04-14: Typo fix
 - 2017-10-04: Adjust content
+- 2017-06-11: Update notes
