@@ -135,3 +135,4 @@
 - 2017-01-04: Polish docs
 - 2017-11-10: Add note
 - 2017-08-20: Update notes
+- 2017-06-12: Expand section
