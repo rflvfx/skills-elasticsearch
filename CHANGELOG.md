@@ -118,3 +118,4 @@
 - 2017-02-27: Review content
 - 2017-02-25: Polish docs
 - 2017-07-11: Expand section
+- 2017-08-17: Update guide
