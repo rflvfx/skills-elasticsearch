@@ -120,3 +120,4 @@
 - 2017-07-11: Expand section
 - 2017-08-17: Update guide
 - 2017-06-22: Update notes
+- 2017-09-09: Update guide
