@@ -38,3 +38,4 @@
 - 2017-06-11: Update notes
 - 2017-09-19: Add detail
 - 2017-10-07: Minor update
+- 2017-09-12: Add detail
