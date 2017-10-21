@@ -130,3 +130,4 @@
 - 2017-01-06: Adjust content
 - 2017-01-04: Small fix
 - 2017-09-12: Polish docs
+- 2017-10-21: Improve docs
