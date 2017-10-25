@@ -114,3 +114,4 @@
 - 2016-10-05: Add note
 - 2017-04-06: Add note
 - 2017-03-07: Fix example
+- 2017-10-25: Add detail
