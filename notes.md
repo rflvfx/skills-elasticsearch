@@ -29,3 +29,4 @@
 - 2016-08-20: Adjust content
 - 2016-01-11: Typo fix
 - 2016-05-22: Update guide
+- 2017-12-23: Clarify section
