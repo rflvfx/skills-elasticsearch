@@ -188,3 +188,4 @@
 - 2018-04-16: Small fix
 - 2018-09-08: Typo fix
 - 2018-06-01: Update notes
+- 2018-01-24: Update notes
