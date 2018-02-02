@@ -192,3 +192,4 @@
 - 2018-11-18: Expand section
 - 2018-04-27: Fix example
 - 2018-04-10: Adjust content
+- 2018-02-02: Expand section
