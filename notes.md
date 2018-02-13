@@ -52,3 +52,4 @@
 - 2018-03-24: Small fix
 - 2018-02-17: Typo fix
 - 2018-11-12: Clarify section
+- 2018-02-13: Expand section
