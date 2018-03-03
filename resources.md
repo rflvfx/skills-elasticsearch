@@ -1,1 +1,2 @@
 - 2016-06-14: Add quick reference (skills-elasticsearch)
+- 2018-03-03: Refine content (skills-elasticsearch)
