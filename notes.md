@@ -49,3 +49,4 @@
 - 2018-02-03: Refine text
 - 2018-05-25: Polish docs
 - 2018-09-14: Refine text
+- 2018-03-24: Small fix
