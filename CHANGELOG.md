@@ -184,3 +184,4 @@
 - 2018-05-04: Small fix
 - 2018-09-24: Typo fix
 - 2018-12-08: Add note
+- 2018-04-01: Polish docs
