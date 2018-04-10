@@ -176,3 +176,4 @@
 - 2018-05-14: Minor update
 - 2018-11-23: Add remark
 - 2018-10-18: Update guide
+- 2018-04-10: Fix example
