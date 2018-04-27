@@ -169,3 +169,4 @@
 - 2018-08-18: Add detail
 - 2018-06-04: Adjust content
 - 2018-07-11: Add note
+- 2018-04-27: Polish docs
