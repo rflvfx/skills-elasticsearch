@@ -161,3 +161,4 @@
 - 2018-11-10: Typo fix
 - 2018-07-21: Polish docs
 - 2018-03-09: Add detail
+- 2018-05-14: Fix example
