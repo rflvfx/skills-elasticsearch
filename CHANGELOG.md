@@ -173,3 +173,4 @@
 - 2018-10-28: Expand section
 - 2018-05-27: Add note
 - 2018-07-16: Small fix
+- 2018-05-14: Minor update
