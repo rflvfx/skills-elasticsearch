@@ -47,3 +47,4 @@
 - 2018-02-28: Review content
 - 2018-11-21: Minor update
 - 2018-02-03: Refine text
+- 2018-05-25: Polish docs
