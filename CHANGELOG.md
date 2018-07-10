@@ -194,3 +194,4 @@
 - 2018-04-10: Adjust content
 - 2018-02-02: Expand section
 - 2018-09-16: Add detail
+- 2018-07-10: Small fix
