@@ -168,3 +168,4 @@
 - 2018-06-02: Update guide
 - 2018-08-18: Add detail
 - 2018-06-04: Adjust content
+- 2018-07-11: Add note
