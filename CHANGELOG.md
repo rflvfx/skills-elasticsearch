@@ -159,3 +159,4 @@
 - 2017-03-13: Polish docs
 - 2018-12-02: Add note
 - 2018-11-10: Typo fix
+- 2018-07-21: Polish docs
