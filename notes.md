@@ -40,3 +40,4 @@
 - 2017-10-07: Minor update
 - 2017-09-12: Add detail
 - 2017-06-05: Expand section
+- 2018-09-03: Refine text
