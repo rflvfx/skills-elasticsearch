@@ -186,3 +186,4 @@
 - 2018-12-08: Add note
 - 2018-04-01: Polish docs
 - 2018-04-16: Small fix
+- 2018-09-08: Typo fix
