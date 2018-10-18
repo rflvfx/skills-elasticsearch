@@ -175,3 +175,4 @@
 - 2018-07-16: Small fix
 - 2018-05-14: Minor update
 - 2018-11-23: Add remark
+- 2018-10-18: Update guide
