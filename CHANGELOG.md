@@ -170,3 +170,4 @@
 - 2018-06-04: Adjust content
 - 2018-07-11: Add note
 - 2018-04-27: Polish docs
+- 2018-10-28: Expand section
