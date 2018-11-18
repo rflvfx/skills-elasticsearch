@@ -42,3 +42,4 @@
 - 2017-06-05: Expand section
 - 2018-09-03: Refine text
 - 2018-09-26: Update guide
+- 2018-11-18: Polish docs
