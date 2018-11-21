@@ -45,3 +45,4 @@
 - 2018-11-18: Polish docs
 - 2018-10-02: Update guide
 - 2018-02-28: Review content
+- 2018-11-21: Minor update
