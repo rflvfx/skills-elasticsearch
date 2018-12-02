@@ -157,3 +157,4 @@
 - 2017-08-20: Review content
 - 2017-02-10: Typo fix
 - 2017-03-13: Polish docs
+- 2018-12-02: Add note
