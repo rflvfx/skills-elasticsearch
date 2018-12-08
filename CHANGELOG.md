@@ -183,3 +183,4 @@
 - 2018-03-21: Fix example
 - 2018-05-04: Small fix
 - 2018-09-24: Typo fix
+- 2018-12-08: Add note
