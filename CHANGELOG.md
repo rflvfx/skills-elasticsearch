@@ -7,3 +7,4 @@
 - 2016-05-22: Update nested fields reference
 - 2017-03-08: Add script scoring notes
 - 2018-07-19: Refine term vectors guide
+- 2018-12-16: Add analyzer config examples
