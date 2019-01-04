@@ -223,3 +223,4 @@
 - 2019-06-05: Fix example
 - 2019-09-25: Add note
 - 2019-10-20: Typo fix
+- 2019-01-04: Adjust content
