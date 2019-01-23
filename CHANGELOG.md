@@ -227,3 +227,4 @@
 - 2019-04-26: Adjust content
 - 2019-04-24: Fix example
 - 2019-02-01: Update notes
+- 2019-01-23: Clarify section
