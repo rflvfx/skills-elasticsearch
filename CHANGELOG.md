@@ -228,3 +228,4 @@
 - 2019-04-24: Fix example
 - 2019-02-01: Update notes
 - 2019-01-23: Clarify section
+- 2019-02-17: Update notes
