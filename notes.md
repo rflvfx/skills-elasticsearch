@@ -54,3 +54,4 @@
 - 2018-11-12: Clarify section
 - 2018-02-13: Expand section
 - 2019-07-13: Refine text
+- 2019-02-19: Minor update
