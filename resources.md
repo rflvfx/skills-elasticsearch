@@ -1,2 +1,3 @@
 - 2016-06-14: Add quick reference (skills-elasticsearch)
 - 2018-03-03: Refine content (skills-elasticsearch)
+- 2019-03-12: Add code snippet (skills-elasticsearch)
