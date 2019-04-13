@@ -57,3 +57,4 @@
 - 2019-02-19: Minor update
 - 2019-02-02: Minor update
 - 2019-09-22: Refine text
+- 2019-04-13: Add detail
