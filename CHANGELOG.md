@@ -225,3 +225,4 @@
 - 2019-10-20: Typo fix
 - 2019-01-04: Adjust content
 - 2019-04-26: Adjust content
+- 2019-04-24: Fix example
