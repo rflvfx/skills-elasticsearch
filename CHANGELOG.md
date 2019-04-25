@@ -233,3 +233,4 @@
 - 2019-08-12: Refine text
 - 2019-04-21: Typo fix
 - 2019-02-28: Add detail
+- 2019-04-25: Add note
