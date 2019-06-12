@@ -242,3 +242,4 @@
 - 2019-12-13: Review content
 - 2019-05-04: Add note
 - 2019-09-10: Add remark
+- 2019-06-12: Clarify section
