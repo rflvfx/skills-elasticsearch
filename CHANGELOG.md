@@ -236,3 +236,4 @@
 - 2019-04-25: Add note
 - 2019-09-08: Improve docs
 - 2019-12-11: Add remark
+- 2019-07-07: Typo fix
