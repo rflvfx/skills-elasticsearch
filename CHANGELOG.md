@@ -230,3 +230,4 @@
 - 2019-01-23: Clarify section
 - 2019-02-17: Update notes
 - 2019-09-18: Update notes
+- 2019-08-12: Refine text
