@@ -218,3 +218,4 @@
 - 2019-07-03: Fix example
 - 2019-11-19: Minor update
 - 2019-09-03: Review content
+- 2019-08-19: Minor update
