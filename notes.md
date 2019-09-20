@@ -58,3 +58,4 @@
 - 2019-02-02: Minor update
 - 2019-09-22: Refine text
 - 2019-04-13: Add detail
+- 2019-09-20: Improve docs
