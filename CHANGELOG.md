@@ -8,3 +8,4 @@
 - 2017-03-08: Add script scoring notes
 - 2018-07-19: Refine term vectors guide
 - 2018-12-16: Add analyzer config examples
+- 2019-10-05: Document pit search
