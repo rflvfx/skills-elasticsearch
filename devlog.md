@@ -1,2 +1,3 @@
 - 2018-09-23 — Add practice notes
 - 2019-06-23 — Small fixes
+- 2019-12-11 — Small fixes
