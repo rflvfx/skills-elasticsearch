@@ -246,3 +246,4 @@
 - 2020-01-14: Typo fix
 - 2020-04-24: Refine text
 - 2020-12-02: Review content
+- 2020-01-04: Add note
