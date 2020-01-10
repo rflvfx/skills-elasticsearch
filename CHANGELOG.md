@@ -278,3 +278,4 @@
 - 2020-07-17: Polish docs
 - 2020-11-19: Update guide
 - 2020-01-15: Refine text
+- 2020-01-10: Add detail
