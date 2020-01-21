@@ -65,3 +65,4 @@
 - 2020-10-07: Typo fix
 - 2020-12-04: Minor update
 - 2020-04-18: Fix example
+- 2020-01-21: Update notes
