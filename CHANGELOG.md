@@ -286,3 +286,4 @@
 - 2020-06-08: Minor update
 - 2020-03-04: Refine text
 - 2020-10-27: Typo fix
+- 2020-01-28: Update guide
