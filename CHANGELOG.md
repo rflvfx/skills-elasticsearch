@@ -11,3 +11,4 @@
 - 2019-10-05: Document pit search
 - 2019-11-24: Add index rollover examples
 - 2020-01-05: Review shard allocation section
+- 2020-02-05: Add synonym filters examples
