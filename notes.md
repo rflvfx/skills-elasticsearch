@@ -60,3 +60,4 @@
 - 2019-04-13: Add detail
 - 2019-09-20: Improve docs
 - 2020-10-15: Add note
+- 2020-03-14: Improve docs
