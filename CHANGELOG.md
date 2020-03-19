@@ -270,3 +270,4 @@
 - 2020-03-08: Add note
 - 2020-09-22: Refine text
 - 2020-01-03: Typo fix
+- 2020-03-19: Improve docs
