@@ -244,3 +244,4 @@
 - 2019-09-10: Add remark
 - 2019-06-12: Clarify section
 - 2020-01-14: Typo fix
+- 2020-04-24: Refine text
