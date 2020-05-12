@@ -257,3 +257,4 @@
 - 2020-07-04: Add note
 - 2020-11-16: Clarify section
 - 2020-05-15: Fix example
+- 2020-05-12: Add detail
