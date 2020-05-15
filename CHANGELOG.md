@@ -256,3 +256,4 @@
 - 2020-03-22: Typo fix
 - 2020-07-04: Add note
 - 2020-11-16: Clarify section
+- 2020-05-15: Fix example
