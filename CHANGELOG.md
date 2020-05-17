@@ -250,3 +250,4 @@
 - 2020-06-23: Improve docs
 - 2020-10-12: Polish docs
 - 2020-01-02: Fix example
+- 2020-05-17: Fix example
