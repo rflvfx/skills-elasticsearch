@@ -66,3 +66,4 @@
 - 2020-12-04: Minor update
 - 2020-04-18: Fix example
 - 2020-01-21: Update notes
+- 2020-06-11: Clarify section
