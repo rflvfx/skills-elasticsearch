@@ -247,3 +247,4 @@
 - 2020-04-24: Refine text
 - 2020-12-02: Review content
 - 2020-01-04: Add note
+- 2020-06-23: Improve docs
