@@ -266,3 +266,4 @@
 - 2020-12-10: Expand section
 - 2020-07-13: Add detail
 - 2020-06-04: Expand section
+- 2020-07-02: Minor update
