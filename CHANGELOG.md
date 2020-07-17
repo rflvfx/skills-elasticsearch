@@ -275,3 +275,4 @@
 - 2020-02-09: Fix example
 - 2020-08-06: Typo fix
 - 2020-09-18: Polish docs
+- 2020-07-17: Polish docs
