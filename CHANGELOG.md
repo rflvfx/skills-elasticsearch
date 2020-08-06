@@ -273,3 +273,4 @@
 - 2020-03-19: Improve docs
 - 2020-03-27: Refine text
 - 2020-02-09: Fix example
+- 2020-08-06: Typo fix
