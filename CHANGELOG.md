@@ -279,3 +279,4 @@
 - 2020-11-19: Update guide
 - 2020-01-15: Refine text
 - 2020-01-10: Add detail
+- 2020-09-06: Review content
