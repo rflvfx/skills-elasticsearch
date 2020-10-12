@@ -248,3 +248,4 @@
 - 2020-12-02: Review content
 - 2020-01-04: Add note
 - 2020-06-23: Improve docs
+- 2020-10-12: Polish docs
