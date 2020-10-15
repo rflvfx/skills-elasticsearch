@@ -59,3 +59,4 @@
 - 2019-09-22: Refine text
 - 2019-04-13: Add detail
 - 2019-09-20: Improve docs
+- 2020-10-15: Add note
