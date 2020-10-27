@@ -285,3 +285,4 @@
 - 2020-05-28: Small fix
 - 2020-06-08: Minor update
 - 2020-03-04: Refine text
+- 2020-10-27: Typo fix
