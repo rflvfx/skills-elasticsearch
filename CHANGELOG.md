@@ -263,3 +263,4 @@
 - 2020-12-26: Adjust content
 - 2020-10-21: Fix example
 - 2020-11-14: Small fix
+- 2020-12-10: Expand section
