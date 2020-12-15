@@ -68,3 +68,4 @@
 - 2020-01-21: Update notes
 - 2020-06-11: Clarify section
 - 2020-04-12: Fix example
+- 2020-12-15: Update notes
