@@ -289,3 +289,4 @@
 - 2020-01-28: Update guide
 - 2020-08-12: Refine text
 - 2021-06-20: Adjust content
+- 2021-01-04: Add detail
