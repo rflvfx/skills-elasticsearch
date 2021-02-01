@@ -302,3 +302,4 @@
 - 2021-11-08: Minor update
 - 2021-02-17: Minor update
 - 2021-01-25: Small fix
+- 2021-02-01: Add note
