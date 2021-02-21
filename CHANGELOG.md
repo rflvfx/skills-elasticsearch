@@ -13,3 +13,4 @@
 - 2020-01-05: Review shard allocation section
 - 2020-02-05: Add synonym filters examples
 - 2020-04-15: Review nested fields section
+- 2021-02-21: Document script scoring
