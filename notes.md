@@ -86,3 +86,4 @@
 - 2021-09-19: Polish docs
 - 2021-05-04: Fix example
 - 2021-01-11: Refine text
+- 2021-03-15: Small fix
