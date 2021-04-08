@@ -310,3 +310,4 @@
 - 2021-05-21: Add detail
 - 2021-10-01: Adjust content
 - 2021-03-04: Small fix
+- 2021-04-08: Clarify section
