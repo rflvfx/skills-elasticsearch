@@ -304,3 +304,4 @@
 - 2021-01-25: Small fix
 - 2021-02-01: Add note
 - 2021-11-24: Polish docs
+- 2021-05-02: Small fix
