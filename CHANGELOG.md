@@ -14,3 +14,4 @@
 - 2020-02-05: Add synonym filters examples
 - 2020-04-15: Review nested fields section
 - 2021-02-21: Document script scoring
+- 2021-05-06: Update refresh interval reference
