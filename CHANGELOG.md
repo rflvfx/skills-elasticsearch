@@ -306,3 +306,4 @@
 - 2021-11-24: Polish docs
 - 2021-05-02: Small fix
 - 2021-08-09: Add detail
+- 2021-05-07: Refine text
