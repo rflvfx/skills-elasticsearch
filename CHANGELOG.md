@@ -314,3 +314,4 @@
 - 2021-03-13: Clarify section
 - 2021-04-03: Typo fix
 - 2021-06-23: Small fix
+- 2021-05-10: Typo fix
