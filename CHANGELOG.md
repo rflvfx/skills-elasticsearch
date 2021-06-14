@@ -298,3 +298,4 @@
 - 2021-05-12: Add detail
 - 2021-12-13: Update guide
 - 2021-05-17: Update guide
+- 2021-06-14: Polish docs
