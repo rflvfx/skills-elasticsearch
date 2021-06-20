@@ -288,3 +288,4 @@
 - 2020-10-27: Typo fix
 - 2020-01-28: Update guide
 - 2020-08-12: Refine text
+- 2021-06-20: Adjust content
