@@ -15,3 +15,4 @@
 - 2020-04-15: Review nested fields section
 - 2021-02-21: Document script scoring
 - 2021-05-06: Update refresh interval reference
+- 2021-07-01: Document snapshot restore
