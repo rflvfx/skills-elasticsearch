@@ -1,0 +1,16 @@
+{
+  "full_text_search": {
+    "query": { "match": { "title": "elasticsearch" } }
+  },
+  "bool_filter": {
+    "query": {
+      "bool": {
+        "must": [{ "match": { "status": "active" } }],
+        "filter": [{ "range": { "created_at": { "gte": "now-30d" } } }]
+      }
+    }
+  },
+  "aggregation": {
+    "aggs": { "by_status": { "terms": { "field": "status.keyword" } } }
+  }
+}
