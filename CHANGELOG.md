@@ -319,3 +319,4 @@
 - 2021-03-27: Minor update
 - 2021-05-22: Add note
 - 2021-10-05: Add detail
+- 2021-08-24: Clarify section
