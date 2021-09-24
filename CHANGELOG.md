@@ -322,3 +322,4 @@
 - 2021-08-24: Clarify section
 - 2021-05-01: Add detail
 - 2021-07-28: Review content
+- 2021-09-24: Clarify section
