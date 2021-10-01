@@ -308,3 +308,4 @@
 - 2021-08-09: Add detail
 - 2021-05-07: Refine text
 - 2021-05-21: Add detail
+- 2021-10-01: Adjust content
