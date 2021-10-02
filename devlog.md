@@ -4,3 +4,4 @@
 - 2019-12-18 — Refine exercises
 - 2021-03-20 — Fix examples
 - 2023-07-28 — Review material
+- 2021-10-02 - Add resource link
