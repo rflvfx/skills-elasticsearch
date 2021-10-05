@@ -318,3 +318,4 @@
 - 2021-07-09: Improve docs
 - 2021-03-27: Minor update
 - 2021-05-22: Add note
+- 2021-10-05: Add detail
