@@ -80,3 +80,4 @@
 - 2021-09-06: Add remark
 - 2021-09-11: Typo fix
 - 2021-07-22: Adjust content
+- 2021-11-07: Clarify section
