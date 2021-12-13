@@ -296,3 +296,4 @@
 - 2021-08-08: Fix example
 - 2021-06-25: Small fix
 - 2021-05-12: Add detail
+- 2021-12-13: Update guide
