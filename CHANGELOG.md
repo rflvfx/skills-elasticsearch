@@ -368,3 +368,4 @@
 - 2022-03-07: Expand section
 - 2022-01-17: Fix example
 - 2022-02-19: Add note
+- 2022-01-08: Add detail
