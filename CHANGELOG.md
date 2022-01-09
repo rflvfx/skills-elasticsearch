@@ -347,3 +347,4 @@
 - 2022-09-16: Polish docs
 - 2022-09-10: Adjust content
 - 2022-11-28: Fix example
+- 2022-01-09: Clarify section
