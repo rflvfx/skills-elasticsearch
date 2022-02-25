@@ -333,3 +333,4 @@
 - 2022-07-09: Minor update
 - 2022-10-04: Adjust content
 - 2022-09-01: Review content
+- 2022-02-25: Add detail
