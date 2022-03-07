@@ -87,3 +87,4 @@
 - 2021-05-04: Fix example
 - 2021-01-11: Refine text
 - 2021-03-15: Small fix
+- 2022-03-07: Expand section
