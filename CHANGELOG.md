@@ -16,3 +16,4 @@
 - 2021-02-21: Document script scoring
 - 2021-05-06: Update refresh interval reference
 - 2021-07-01: Document snapshot restore
+- 2022-03-09: Update ingest pipelines reference
