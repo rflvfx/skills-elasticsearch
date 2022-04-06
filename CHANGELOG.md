@@ -372,3 +372,4 @@
 - 2022-08-04: Fix example
 - 2022-12-02: Adjust content
 - 2022-06-19: Update notes
+- 2022-04-06: Improve docs
