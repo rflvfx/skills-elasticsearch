@@ -353,3 +353,4 @@
 - 2022-03-16: Add detail
 - 2022-02-09: Add note
 - 2022-06-06: Add detail
+- 2022-05-18: Clarify section
