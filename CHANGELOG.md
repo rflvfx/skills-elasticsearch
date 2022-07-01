@@ -327,3 +327,4 @@
 - 2021-09-28: Adjust content
 - 2022-04-10: Update notes
 - 2022-12-23: Update notes
+- 2022-07-01: Typo fix
