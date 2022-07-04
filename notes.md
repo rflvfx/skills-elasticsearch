@@ -88,3 +88,4 @@
 - 2021-01-11: Refine text
 - 2021-03-15: Small fix
 - 2022-03-07: Expand section
+- 2022-07-04: Small fix
