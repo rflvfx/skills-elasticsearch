@@ -355,3 +355,4 @@
 - 2022-06-06: Add detail
 - 2022-05-18: Clarify section
 - 2022-04-16: Polish docs
+- 2022-10-02: Clarify section
