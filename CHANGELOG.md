@@ -370,3 +370,4 @@
 - 2022-02-19: Add note
 - 2022-01-08: Add detail
 - 2022-08-04: Fix example
+- 2022-12-02: Adjust content
