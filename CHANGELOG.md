@@ -18,3 +18,4 @@
 - 2021-07-01: Document snapshot restore
 - 2022-03-09: Update ingest pipelines reference
 - 2022-07-02: Add term vectors examples
+- 2022-12-13: Refine analyzer config guide
