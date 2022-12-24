@@ -339,3 +339,4 @@
 - 2022-10-13: Add note
 - 2022-06-15: Update guide
 - 2022-05-21: Polish docs
+- 2022-12-24: Minor update
