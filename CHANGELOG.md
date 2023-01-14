@@ -394,3 +394,4 @@
 - 2023-07-08: Adjust content
 - 2023-01-14: Small fix
 - 2023-07-20: Add detail
+- 2023-01-14: Refine text
