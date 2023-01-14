@@ -392,3 +392,4 @@
 - 2023-08-13: Improve docs
 - 2023-03-02: Typo fix
 - 2023-07-08: Adjust content
+- 2023-01-14: Small fix
