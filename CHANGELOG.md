@@ -378,3 +378,4 @@
 - 2023-08-10: Add remark
 - 2023-10-01: Add note
 - 2023-10-10: Typo fix
+- 2023-02-01: Polish docs
