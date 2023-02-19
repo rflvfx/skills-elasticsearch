@@ -19,3 +19,4 @@
 - 2022-03-09: Update ingest pipelines reference
 - 2022-07-02: Add term vectors examples
 - 2022-12-13: Refine analyzer config guide
+- 2023-02-19: Update index templates reference
