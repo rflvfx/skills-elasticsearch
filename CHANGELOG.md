@@ -387,3 +387,4 @@
 - 2023-03-03: Minor update
 - 2023-10-08: Small fix
 - 2023-09-23: Polish docs
+- 2023-03-17: Typo fix
