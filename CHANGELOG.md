@@ -379,3 +379,4 @@
 - 2023-10-01: Add note
 - 2023-10-10: Typo fix
 - 2023-02-01: Polish docs
+- 2023-03-19: Typo fix
