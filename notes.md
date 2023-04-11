@@ -94,3 +94,4 @@
 - 2022-08-23: Improve docs
 - 2022-06-20: Adjust content
 - 2022-04-24: Review content
+- 2023-04-11: Typo fix
