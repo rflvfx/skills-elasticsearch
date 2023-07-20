@@ -393,3 +393,4 @@
 - 2023-03-02: Typo fix
 - 2023-07-08: Adjust content
 - 2023-01-14: Small fix
+- 2023-07-20: Add detail
