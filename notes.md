@@ -101,3 +101,4 @@
 - 2023-11-01: Update guide
 - 2023-12-23: Improve docs
 - 2023-02-03: Update guide
+- 2023-09-16: Fix example
