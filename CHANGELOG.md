@@ -386,3 +386,4 @@
 - 2023-10-04: Add remark
 - 2023-03-03: Minor update
 - 2023-10-08: Small fix
+- 2023-09-23: Polish docs
