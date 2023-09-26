@@ -20,3 +20,4 @@
 - 2022-07-02: Add term vectors examples
 - 2022-12-13: Refine analyzer config guide
 - 2023-02-19: Update index templates reference
+- 2023-09-26: Add index rollover examples
