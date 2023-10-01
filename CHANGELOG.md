@@ -376,3 +376,4 @@
 - 2022-06-16: Refine text
 - 2023-12-09: Adjust content
 - 2023-08-10: Add remark
+- 2023-10-01: Add note
