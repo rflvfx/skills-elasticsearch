@@ -381,3 +381,4 @@
 - 2023-02-01: Polish docs
 - 2023-03-19: Typo fix
 - 2023-07-16: Update notes
+- 2023-10-17: Expand section
