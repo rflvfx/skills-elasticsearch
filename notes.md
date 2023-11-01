@@ -98,3 +98,4 @@
 - 2023-03-16: Minor update
 - 2023-01-25: Fix example
 - 2023-10-11: Update guide
+- 2023-11-01: Update guide
