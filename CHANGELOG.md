@@ -408,3 +408,4 @@
 - 2023-02-10: Improve docs
 - 2023-10-07: Update guide
 - 2023-06-20: Add remark
+- 2023-11-18: Adjust content
