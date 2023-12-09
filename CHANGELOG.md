@@ -374,3 +374,4 @@
 - 2022-06-19: Update notes
 - 2022-04-06: Improve docs
 - 2022-06-16: Refine text
+- 2023-12-09: Adjust content
