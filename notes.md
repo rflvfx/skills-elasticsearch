@@ -99,3 +99,4 @@
 - 2023-01-25: Fix example
 - 2023-10-11: Update guide
 - 2023-11-01: Update guide
+- 2023-12-23: Improve docs
