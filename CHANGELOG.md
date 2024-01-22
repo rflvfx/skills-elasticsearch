@@ -448,3 +448,4 @@
 - 2024-12-28: Update guide
 - 2024-07-16: Small fix
 - 2024-05-18: Adjust content
+- 2024-01-22: Expand section
