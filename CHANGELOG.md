@@ -21,3 +21,4 @@
 - 2022-12-13: Refine analyzer config guide
 - 2023-02-19: Update index templates reference
 - 2023-09-26: Add index rollover examples
+- 2024-01-24: Update shard allocation reference
