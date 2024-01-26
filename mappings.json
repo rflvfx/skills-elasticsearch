@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "properties": {
+      "title": { "type": "text", "fields": { "keyword": { "type": "keyword" } } },
+      "body": { "type": "text" },
+      "status": { "type": "keyword" },
+      "created_at": { "type": "date" }
+    }
+  }
+}
