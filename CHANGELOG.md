@@ -454,3 +454,4 @@
 - 2024-08-16: Update guide
 - 2024-05-21: Add detail
 - 2024-06-05: Small fix
+- 2024-03-07: Clarify section
