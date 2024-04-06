@@ -431,3 +431,4 @@
 - 2024-08-24: Add detail
 - 2024-03-22: Add note
 - 2024-03-05: Improve docs
+- 2024-04-06: Clarify section
