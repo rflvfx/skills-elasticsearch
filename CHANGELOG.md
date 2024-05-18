@@ -447,3 +447,4 @@
 - 2024-06-18: Refine text
 - 2024-12-28: Update guide
 - 2024-07-16: Small fix
+- 2024-05-18: Adjust content
