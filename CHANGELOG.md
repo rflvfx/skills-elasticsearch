@@ -420,3 +420,4 @@
 - 2023-02-20: Improve docs
 - 2023-05-16: Review content
 - 2024-12-08: Improve docs
+- 2024-06-05: Update notes
