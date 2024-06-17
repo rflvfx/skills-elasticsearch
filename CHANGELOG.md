@@ -22,3 +22,4 @@
 - 2023-02-19: Update index templates reference
 - 2023-09-26: Add index rollover examples
 - 2024-01-24: Update shard allocation reference
+- 2024-06-17: Expand nested fields docs
