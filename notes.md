@@ -108,3 +108,4 @@
 - 2024-09-20: Refine text
 - 2024-05-03: Typo fix
 - 2024-07-13: Expand section
+- 2024-07-25: Add note
