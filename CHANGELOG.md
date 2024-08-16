@@ -451,3 +451,4 @@
 - 2024-01-22: Expand section
 - 2024-04-01: Add remark
 - 2024-02-22: Add note
+- 2024-08-16: Update guide
