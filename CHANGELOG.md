@@ -434,3 +434,4 @@
 - 2024-04-06: Clarify section
 - 2024-12-05: Clarify section
 - 2024-09-15: Small fix
+- 2024-08-16: Update notes
