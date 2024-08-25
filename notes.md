@@ -119,3 +119,4 @@
 - 2024-09-28: Typo fix
 - 2024-07-16: Typo fix
 - 2024-06-11: Update guide
+- 2024-08-25: Fix example
