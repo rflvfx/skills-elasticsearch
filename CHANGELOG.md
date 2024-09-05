@@ -425,3 +425,4 @@
 - 2024-03-13: Improve docs
 - 2024-12-17: Small fix
 - 2024-01-12: Expand section
+- 2024-09-05: Clarify section
