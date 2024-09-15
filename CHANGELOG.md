@@ -433,3 +433,4 @@
 - 2024-03-05: Improve docs
 - 2024-04-06: Clarify section
 - 2024-12-05: Clarify section
+- 2024-09-15: Small fix
