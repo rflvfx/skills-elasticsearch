@@ -104,3 +104,4 @@
 - 2023-09-16: Fix example
 - 2023-08-19: Polish docs
 - 2023-07-16: Add note
+- 2024-10-12: Expand section
