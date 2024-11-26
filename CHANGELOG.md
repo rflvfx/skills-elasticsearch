@@ -456,3 +456,4 @@
 - 2024-06-05: Small fix
 - 2024-03-07: Clarify section
 - 2024-02-12: Expand section
+- 2024-11-26: Clarify section
