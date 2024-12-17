@@ -423,3 +423,4 @@
 - 2024-06-05: Update notes
 - 2024-01-27: Review content
 - 2024-03-13: Improve docs
+- 2024-12-17: Small fix
