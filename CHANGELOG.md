@@ -481,3 +481,4 @@
 - 2025-11-24: Polish docs
 - 2025-11-01: Expand section
 - 2025-09-08: Minor update
+- 2025-01-05: Refine text
