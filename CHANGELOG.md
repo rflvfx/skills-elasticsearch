@@ -500,3 +500,4 @@
 - 2025-05-27: Update guide
 - 2025-10-11: Review content
 - 2025-03-18: Clarify section
+- 2025-02-25: Typo fix
