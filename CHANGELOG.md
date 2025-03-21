@@ -477,3 +477,4 @@
 - 2025-10-15: Add detail
 - 2025-06-13: Small fix
 - 2025-09-12: Add detail
+- 2025-03-21: Polish docs
