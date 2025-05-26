@@ -24,3 +24,4 @@
 - 2024-01-24: Update shard allocation reference
 - 2024-06-17: Expand nested fields docs
 - 2024-12-27: Add percolate queries examples
+- 2025-05-26: Improve script scoring coverage
