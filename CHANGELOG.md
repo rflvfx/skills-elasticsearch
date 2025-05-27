@@ -497,3 +497,4 @@
 - 2025-05-11: Review content
 - 2025-03-16: Update notes
 - 2025-03-06: Add detail
+- 2025-05-27: Update guide
