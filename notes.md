@@ -125,3 +125,4 @@
 - 2025-08-17: Typo fix
 - 2025-10-22: Add detail
 - 2025-04-25: Fix example
+- 2025-07-04: Minor update
