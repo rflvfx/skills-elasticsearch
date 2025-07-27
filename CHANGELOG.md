@@ -469,3 +469,4 @@
 - 2025-01-02: Fix example
 - 2025-03-23: Minor update
 - 2025-12-25: Add detail
+- 2025-07-27: Clarify section
