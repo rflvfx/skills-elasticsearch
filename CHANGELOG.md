@@ -460,3 +460,4 @@
 - 2025-11-03: Refine text
 - 2025-11-12: Typo fix
 - 2025-03-13: Minor update
+- 2025-08-12: Add detail
