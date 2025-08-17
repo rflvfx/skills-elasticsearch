@@ -122,3 +122,4 @@
 - 2024-08-25: Fix example
 - 2024-11-25: Add note
 - 2025-11-14: Clarify section
+- 2025-08-17: Typo fix
