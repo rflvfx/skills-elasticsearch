@@ -471,3 +471,4 @@
 - 2025-12-25: Add detail
 - 2025-07-27: Clarify section
 - 2025-07-25: Small fix
+- 2025-08-23: Update guide
