@@ -25,3 +25,4 @@
 - 2024-06-17: Expand nested fields docs
 - 2024-12-27: Add percolate queries examples
 - 2025-05-26: Improve script scoring coverage
+- 2025-08-25: Add refresh interval examples
