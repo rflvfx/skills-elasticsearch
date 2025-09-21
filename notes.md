@@ -127,3 +127,4 @@
 - 2025-04-25: Fix example
 - 2025-07-04: Minor update
 - 2025-07-14: Expand section
+- 2025-09-21: Clarify section
