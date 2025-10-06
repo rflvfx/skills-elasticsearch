@@ -484,3 +484,4 @@
 - 2025-01-05: Refine text
 - 2025-02-08: Add remark
 - 2025-10-27: Polish docs
+- 2025-10-06: Minor update
