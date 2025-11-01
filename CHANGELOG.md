@@ -479,3 +479,4 @@
 - 2025-09-12: Add detail
 - 2025-03-21: Polish docs
 - 2025-11-24: Polish docs
+- 2025-11-01: Expand section
