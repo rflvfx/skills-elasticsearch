@@ -121,3 +121,4 @@
 - 2024-06-11: Update guide
 - 2024-08-25: Fix example
 - 2024-11-25: Add note
+- 2025-11-14: Clarify section
