@@ -510,3 +510,4 @@
 - 2026-10-20: Improve docs
 - 2026-10-18: Polish docs
 - 2026-05-03: Add detail
+- 2026-02-15: Update guide
