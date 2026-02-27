@@ -144,3 +144,4 @@
 - 2026-03-10: Update guide
 - 2026-05-10: Fix example
 - 2026-06-07: Add detail
+- 2026-02-27: Typo fix
