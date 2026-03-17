@@ -502,3 +502,4 @@
 - 2025-03-18: Clarify section
 - 2025-02-25: Typo fix
 - 2025-07-06: Add remark
+- 2026-03-17: Polish docs
