@@ -505,3 +505,4 @@
 - 2026-03-17: Polish docs
 - 2026-11-24: Add detail
 - 2026-06-09: Polish docs
+- 2026-03-20: Adjust content
