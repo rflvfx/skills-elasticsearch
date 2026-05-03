@@ -509,3 +509,4 @@
 - 2026-09-07: Fix example
 - 2026-10-20: Improve docs
 - 2026-10-18: Polish docs
+- 2026-05-03: Add detail
