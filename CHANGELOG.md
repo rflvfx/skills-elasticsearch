@@ -518,3 +518,4 @@
 - 2026-05-12: Add note
 - 2026-02-11: Add detail
 - 2026-12-10: Improve docs
+- 2026-07-01: Expand section
