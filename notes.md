@@ -147,3 +147,4 @@
 - 2026-02-27: Typo fix
 - 2026-03-08: Refine text
 - 2026-07-10: Add note
+- 2026-07-26: Fix example
