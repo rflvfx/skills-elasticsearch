@@ -536,3 +536,4 @@
 - 2026-02-09: Update notes
 - 2026-01-17: Add remark
 - 2026-09-06: Polish docs
+- 2026-08-09: Adjust content
