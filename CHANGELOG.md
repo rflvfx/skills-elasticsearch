@@ -29,3 +29,4 @@
 - 2025-11-08: Review snapshot restore section
 - 2026-01-13: Improve runtime fields coverage
 - 2026-01-16: Document ingest pipelines
+- 2026-08-20: Document analyzer config
