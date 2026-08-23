@@ -512,3 +512,4 @@
 - 2026-05-03: Add detail
 - 2026-02-15: Update guide
 - 2026-01-09: Add note
+- 2026-08-23: Fix example
