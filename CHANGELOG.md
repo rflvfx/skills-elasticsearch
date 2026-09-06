@@ -535,3 +535,4 @@
 - 2026-05-27: Review content
 - 2026-02-09: Update notes
 - 2026-01-17: Add remark
+- 2026-09-06: Polish docs
