@@ -1,0 +1,8 @@
+// elasticsearch-query.json
+{
+  "query": {
+    "match": {
+      "habilidade": "Elasticsearch"
+    }
+  }
+}
