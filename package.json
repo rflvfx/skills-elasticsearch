@@ -1,0 +1,6 @@
+{
+  "name": "skills-elasticsearch",
+  "version": "1.0.0",
+  "dependencies": { "@elastic/elasticsearch": "^8.0.0" },
+  "scripts": { "start": "node index.js" }
+}
