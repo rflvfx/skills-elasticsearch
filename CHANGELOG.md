@@ -522,3 +522,4 @@
 - 2026-01-02: Update guide
 - 2026-10-26: Polish docs
 - 2026-11-28: Minor update
+- 2026-10-13: Small fix
