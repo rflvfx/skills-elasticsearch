@@ -140,3 +140,4 @@
 - 2026-06-18: Minor update
 - 2026-01-05: Update notes
 - 2026-10-07: Update guide
+- 2026-10-19: Add remark
