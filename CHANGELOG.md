@@ -507,3 +507,4 @@
 - 2026-06-09: Polish docs
 - 2026-03-20: Adjust content
 - 2026-09-07: Fix example
+- 2026-10-20: Improve docs
