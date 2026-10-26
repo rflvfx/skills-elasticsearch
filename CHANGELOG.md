@@ -520,3 +520,4 @@
 - 2026-12-10: Improve docs
 - 2026-07-01: Expand section
 - 2026-01-02: Update guide
+- 2026-10-26: Polish docs
