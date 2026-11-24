@@ -503,3 +503,4 @@
 - 2025-02-25: Typo fix
 - 2025-07-06: Add remark
 - 2026-03-17: Polish docs
+- 2026-11-24: Add detail
